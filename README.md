@@ -5,4 +5,5 @@ Operações de adição, subtração, multiplicação e divisão, e funções pa
 os valores e resultados na tela.
 
 Para executar basta clonar este repositório, ir na pasta do projeto e abrir o arquivo index.html.
-
+## preview
+![calculadora](image/calculadora.png)
